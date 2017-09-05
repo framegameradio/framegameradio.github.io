@@ -1,0 +1,29 @@
+body{
+		font-family: 'Cormorant Garamond', serif;
+        font-size:20px;
+        margin:auto;
+        
+        
+	
+}
+
+#wrapper{
+    
+    background-color: #E6E7E2 /* PANTONE 11-4301 TPX Lily White */;
+		width:1200px;
+		padding:10px;
+		margin:auto;
+		
+		border-radius:8px;
+}
+
+#content{
+        text-align: center;
+        width:700px;
+    margin:auto;
+    
+}   
+img{
+    width:700px;
+}
+        
